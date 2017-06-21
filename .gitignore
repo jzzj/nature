@@ -1,0 +1,8 @@
+.DS_Store
+logs/
+_babelcache.json
+*.lib.js
+*.map
+node_modules
+static
+npm-debug.log
